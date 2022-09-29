@@ -20,6 +20,15 @@
       "defaultValue": null
     },
     {
+      "name": "id",
+      "type": "esriFieldTypeString",
+      "alias": "id",
+      "sqlType": "sqlTypeOther",
+      "length": 15,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
       "name": "ident",
       "type": "esriFieldTypeString",
       "alias": "ident",
