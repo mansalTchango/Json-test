@@ -94,7 +94,7 @@
         "ident": "24Fi167",
         "longitude": 6.47383354900006,
         "latitude": 46.369816293,
-        "name": "Parc thermal 2",
+        "name": "Parc thermal",
         "photo": "https://www.ville-thonon.fr/uploads/Image/80/7525_821_FRAM01_74THONON_0024Fi0167.jpg",
         "details": "<p>Mme Françoise de Lort a donné la source d'eaux minérales de la Versoie à la Ville en 1859. Ref. 24Fi167</p> <p><a class=\"thonon__button\" href=\"https://www.ville-thonon.fr/uploads/Image/80/7525_821_FRAM01_74THONON_0024Fi0167.jpg\">Voir l'image</a></p>"
       },
@@ -116,21 +116,6 @@
       "geometry": {
         "x": 6.472574476000091,
         "y": 46.371007528000064
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 20,
-        "ident": "4Fi108",
-        "longitude": 6.50256438700007,
-        "latitude": 46.3659326480001,
-        "name": "Impasse de la Fontaine couverte",
-        "photo": "https://www.ville-thonon.fr/uploads/Image/49/7554_822_FRAM01_74THONON_0004Fi0108.jpg",
-        "details": "<p>Ce café restaurant était recommandé par les guides touristiques du début XXe siècle. Ref. 4Fi108</p> <p><a class=\"thonon__button\" href=\"https://www.ville-thonon.fr/uploads/Image/49/7554_822_FRAM01_74THONON_0004Fi0108.jpg\">Voir l'image</a></p>"
-      },
-      "geometry": {
-        "x": 6.5025643870000636,
-        "y": 46.365932648000069
       }
     }
   ]
