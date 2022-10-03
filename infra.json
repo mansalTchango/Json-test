@@ -94,7 +94,7 @@
         "ident": "24Fi167",
         "longitude": 6.47383354900006,
         "latitude": 46.369816293,
-        "name": "Parc thermal yeah",
+        "name": "update infra json",
         "photo": "https://www.ville-thonon.fr/uploads/Image/80/7525_821_FRAM01_74THONON_0024Fi0167.jpg",
         "details": "<p>Mme Françoise de Lort a donné la source d'eaux minérales de la Versoie à la Ville en 1859. Ref. 24Fi167</p> <p><a class=\"thonon__button\" href=\"https://www.ville-thonon.fr/uploads/Image/80/7525_821_FRAM01_74THONON_0024Fi0167.jpg\">Voir l'image</a></p>"
       },
@@ -111,6 +111,21 @@
         "longitude": 6.47257447600009,
         "latitude": 46.3710075280001,
         "name": "Parc thermal 2",
+        "photo": "https://www.ville-thonon.fr/uploads/Image/e5/7587_824_FRAM01_74THONON_0004Fi0070.jpg",
+        "details": "<p>Le casino fonctionne de 1886 à 1929. Il est ensuite acheté par la Ville et sert de Maison des jeunes puis de Maison des associations jusqu'à sa fermeture en 2007. Ref. 4Fi70</p> <p><a class=\"thonon__button\" href=\"https://www.ville-thonon.fr/uploads/Image/e5/7587_824_FRAM01_74THONON_0004Fi0070.jpg\">Voir l'image</a></p>"
+      },
+      "geometry": {
+        "x": 6.472574476000091,
+        "y": 46.371007528000064
+      }
+    },
+        {
+      "attributes": {
+        "OBJECTID": 19,
+        "ident": "4Fi80",
+        "longitude": 6.47257447600009,
+        "latitude": 46.3710075280001,
+        "name": "New infra json",
         "photo": "https://www.ville-thonon.fr/uploads/Image/e5/7587_824_FRAM01_74THONON_0004Fi0070.jpg",
         "details": "<p>Le casino fonctionne de 1886 à 1929. Il est ensuite acheté par la Ville et sert de Maison des jeunes puis de Maison des associations jusqu'à sa fermeture en 2007. Ref. 4Fi70</p> <p><a class=\"thonon__button\" href=\"https://www.ville-thonon.fr/uploads/Image/e5/7587_824_FRAM01_74THONON_0004Fi0070.jpg\">Voir l'image</a></p>"
       },
